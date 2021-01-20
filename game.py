@@ -4,7 +4,7 @@ import sys
 import pygame
 
 # TODO: импорт клавиш
-ljkhbkgljkl;hgg
+
 # инициализация
 pygame.init()
 
